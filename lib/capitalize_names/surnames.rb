@@ -248,6 +248,7 @@ module CapitalizeNames
     "LaLiberte",
     "LaLonde",
     "LaLone",
+    "LaMariposa",
     "LaMaster",
     "LaMay",
     "LaMere",
