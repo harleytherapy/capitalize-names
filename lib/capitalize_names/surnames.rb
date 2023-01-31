@@ -9,6 +9,7 @@ module CapitalizeNames
     "D'ovidio",
     "DaSilva",
     "DeAnda",
+    "De Angelis",
     "deAnnethe",
     "deAubigne",
     "deAubigny",
